@@ -93,6 +93,6 @@ curl -x http://127.0.0.1:17890 \
   -sS -o /dev/null \
   -w "HTTP %{http_code}\n" \
   https://api.openai.com/v1/models
-````
+```
 
 返回 `HTTP 401` 通常说明代理通路正常，只是测试请求没有携带 API Key。若出现 `Connection refused`，优先检查本地代理是否启动、端口是否确实为 `7897`，以及 VS Code 是否通过修改后的 SSH 配置重新建立了连接。
