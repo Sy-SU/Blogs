@@ -86,8 +86,6 @@ Sign in with ChatGPT
 
 在本地浏览器中完成认证即可。
 
-````
-
 还建议在正式登录前，在 AutoDL 终端验证隧道：
 
 ```bash
