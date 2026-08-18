@@ -1,3 +1,3 @@
-- [ ] [FunFact](https://arxiv.org/abs/2604.03696) (DualFactorGraph 的详细过程还没看完)
+- [x] [FunFact](https://arxiv.org/abs/2604.03696)
 - [ ] [Fun3DU](https://arxiv.org/abs/2411.16310)
 - [ ] [SceneActBench](https://arxiv.org/abs/2607.22393)
