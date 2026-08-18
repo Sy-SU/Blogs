@@ -9,4 +9,5 @@
 - [2026-08-12 relationship 和 affordance 初步理解](contents/20260812/260812.md)
 - [2026-08-14 SceneFun3D / OpenFunGraph](contents/20260814/260814.md)
 - [2026-08-17 Tag2Text/RAM/RAM++ / FunFact](contents/20260817/260817.md)
+- [2026-08-18 Fun3DU](contents/20260818/260818.md)
 
