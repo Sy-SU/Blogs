@@ -11,3 +11,4 @@
 - [2026-08-17 Tag2Text/RAM/RAM++ / FunFact](contents/20260817/260817.md)
 - [2026-08-18 Fun3DU](contents/20260818/260818.md)
 
+- [2026-08-19 SceneActBench](contents/20260819/260819.md)

@@ -1,4 +1,4 @@
 - [x] [FunFact](https://arxiv.org/abs/2604.03696)
 - [x] [Fun3DU](https://arxiv.org/abs/2411.16310)
-- [ ] [SceneActBench](https://arxiv.org/abs/2607.22393)
+- [x] [SceneActBench](https://arxiv.org/abs/2607.22393)
 - [ ] [SeqAfford](https://arxiv.org/abs/2412.01550)
